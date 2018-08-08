@@ -31,7 +31,6 @@ Q5            The class discussions, homework assignments, applications and stud
 
 Q6            The textbook and other courses resources were sufficient and up to date.                                     {1,2,3,4,5}
 
-
 Q7            The course allowed field work, applications, laboratory,discussion and other studies.                        {1,2,3,4,5}
 
 Q8            The quizzes, assignments, projects and exams contributed to helping and learning.                            {1,2,3,4,5}
@@ -70,8 +69,7 @@ Q24           The instructor gave relevant homework assignments/projects, and he
 
 Q25           The instructor responded to questions about the course inside and outside of the course.                     {1,2,3,4,5}
 
-Q26           The instructor’s evaluation system (midterm and final questions, projects, assignments, etc.)                {1,2,3,4,5}
-              effectively measured the course objectives.
+Q26           The instructor’s evaluation system (midterm and final questions, projects, assignments, etc.) effectively measured the course objectives.                                 {1,2,3,4,5}
               
 Q27           The instructor provided solutions to exams and discussed them with students.                                 {1,2,3,4,5}
 
