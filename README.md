@@ -1,4 +1,4 @@
-# Turkiye-Student-Evaluation
+# Student-Course-Feedback-Evaluation
 An Unsupervised Learning Problem
 
 Problem- Use Classification and Clustering Technique to deal with given data
