@@ -1,7 +1,8 @@
 # Student-Course-Feedback-Evaluation
 An Unsupervised Learning Problem
 
-Problem- Use Classification and Clustering Technique to deal with given data
+Problem - 
+Students has attended the multiple courses. At the end students provided the feedback on the course, instructor by answer the 30 Question. Given the feedback as a dataset, we have analysed the data using various Clustering Techiques.
 
 About Dataset-This dataset is based on an evaluation form filled out by students for different courses. It has different attributes including attendance, difficulty, score for each evaluation question, among others.The dataset has 5820 rows and 33 columns.
 
